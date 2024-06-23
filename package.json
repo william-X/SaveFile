@@ -1,7 +1,7 @@
 {
   "name": "save-file-by-zip",
-  "version": "0.0.3",
-  "description": "单词转大小写",
+  "version": "0.0.4",
+  "description": "保存文件夹中的文件到zip文件中",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "scripts": {
